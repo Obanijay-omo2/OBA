@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-size: cover;
+    background-color: aqua;
+  }
+
+  #countdown {
+    font-size: 2em;
+    color: #333;
+    display: flex;
+    text-align: center;
+    justify-content: center
+  }
+  #countdown-Timer span {
+    font-size: 2em;
+    color:blue;
+    display: inline-block;
+    margin: 0.5rem;
+    width: 70px;
+    padding: 1rem;
+    border: 15px solid gray;
+
+  }
